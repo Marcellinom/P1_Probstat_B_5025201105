@@ -1,0 +1,1 @@
+# Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
