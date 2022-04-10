@@ -8,8 +8,6 @@ dgeom(x = x, prob = p)
 mean(rgeom(n = 10000, prob = p) == 3)
 # [1] 0.1049
 
-# c
-
 # d
 hist(rgeom(n = 10000, prob = p), main ="Histogram Distribusi Geometrik")
 
