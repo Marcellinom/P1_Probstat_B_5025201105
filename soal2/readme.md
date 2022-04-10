@@ -15,7 +15,7 @@ Histogram
 ```r
 hist(rbinom(sembuh, pasien, prob = p), xlab = "sembuh", ylab = "frekuensi", main = "Histogram Distribusi Binomial")
 ```
-![image](Dist_binomial.png)
+![image](https://github.com/Marcellinom/P1_Probstat_B_5025201105/blob/main/soal2/Dist_binomial.png)
 
 ## C. Nilai Rataan (μ) dan Varian (σ²) dari DistribusiBinomial.
 - mean didapat dari banyak data * peluang

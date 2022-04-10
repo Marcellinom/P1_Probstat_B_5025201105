@@ -14,6 +14,6 @@ Histogram
 ```r
 hist(rpois(6, 4.5), main = "Histogram Poison")
 ```
-![image](Dist_poison_365.png)
+![image](https://github.com/Marcellinom/P1_Probstat_B_5025201105/blob/main/soal3/Dist_Poison_365.png)
 
 ## C. dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
