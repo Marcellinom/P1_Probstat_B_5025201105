@@ -23,7 +23,7 @@ dalam case ini hasil poin b lebih besar dari poin a karena merupakan hasil perhi
 ```r
 hist(rgeom(n = 10000, prob = p), main ="Histogram Distribusi Geometrik")
 ```
-![image](Dist_geometric.png)
+![image](https://github.com/Marcellinom/P1_Probstat_B_5025201105/blob/main/soal1/Dist_geometric.png)
 
 ## E. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik.
 - mean didapat dari banyak data * peluang

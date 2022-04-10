@@ -18,10 +18,10 @@ hist(rexp(100), main = "Histogram Exponential 100 bilangan random")
 hist(rexp(1000), main = "Histogram Exponential 1000 bilangan random")
 hist(rexp(10000), main = "Histogram Exponential 10000 bilangan random")
 ```
-![image](Dist_Exp-10-bil-random.png)
-![image](Dist_Exp-100-bil-random.png)
-![image](Dist_Exp-1000-bil-random.png)
-![image](Dist_Exp-10000-bil-random.png)
+![image](https://github.com/Marcellinom/P1_Probstat_B_5025201105/blob/main/soal5/Dist_Exp-10-bil-random.png)
+![image](https://github.com/Marcellinom/P1_Probstat_B_5025201105/blob/main/soal5/Dist_Exp-100-bil-random.png)
+![image](https://github.com/Marcellinom/P1_Probstat_B_5025201105/blob/main/soal5/Dist_Exp-1000-bil-random.png)
+![image](https://github.com/Marcellinom/P1_Probstat_B_5025201105/blob/main/soal5/Dist_Exp-10000-bil-random.png)
 
 ## C. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100 dan λ = 3
 - mean didapat dari lambda

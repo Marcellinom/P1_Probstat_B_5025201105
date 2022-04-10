@@ -13,7 +13,7 @@ Histogram
 ```r
 hist(rchisq(100, 10), main = "Histogram Distribusi Chi-Square")
 ```
-![image](Dist_Chi-Square.png)
+![image](https://github.com/Marcellinom/P1_Probstat_B_5025201105/blob/main/soal4/Dist_Chi-Square.png)
 
 ## C. Nilai Rataan (μ) dan Varian (σ²) dari DistribusiChi-Square
 - mean didapat dari v = 10
